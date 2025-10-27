@@ -1,0 +1,4 @@
+Wiring diagram placeholder — include a vector diagram or PNG in docs/wiring_diagram.png
+- Power rails: Battery -> ESC -> Motors
+- Logic power: Battery -> BEC -> Arduino/ESP32/RPi (via 5V regulator)
+- Sensors: I2C/Serial connections to Arduinos; USB camera to RPi

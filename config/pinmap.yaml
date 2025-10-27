@@ -1,0 +1,8 @@
+arduino:
+  left_motor_pwm: 3
+  right_motor_pwm: 5
+  weapon_servo: 6
+esp32:
+  telemetry_port: 80
+raspberry_pi:
+  camera_index: 0

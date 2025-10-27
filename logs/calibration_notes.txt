@@ -1,0 +1,3 @@
+Calibration notes:
+- wheel circumference measured: 0.314m
+- encoder ticks per rev: 1440

@@ -1,0 +1,29 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Arduino/IDE
+*.log
+*.zip
+
+# Large media
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Build artifacts
+build/
+*.o
+*.elf
+
+# VSCode
+.vscode/
+
+# Git LFS pointer files if used
+*.gitattributes

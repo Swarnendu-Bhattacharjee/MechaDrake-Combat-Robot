@@ -1,0 +1,3 @@
+max_speed: 255
+weapon_timeout_ms: 500
+ai_inference_threshold: 0.5
