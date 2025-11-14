@@ -15,6 +15,17 @@ This project represents a complete, end-to-end build — from **CAD design and c
 Every line of code, every module, and every assembly was designed, debugged, and tested in-house.
 
 ---
+### Build Images
+
+<p align="center">
+  <img src="media/images/IMG-20251027-WA0017.jpg" width="420" />
+</p>
+
+<p align="center">
+  <img src="media/images/IMG-20251027-WA0025.jpg" width="420" />
+</p>
+
+---
 
 ## 🧩 System Architecture
 
@@ -77,25 +88,6 @@ This division ensures **low-level precision** and **high-level intelligence** co
 
 ---
 
-## 📂 Repository Structure
-
-MechaDrake-Combat-Robot/
-├── firmware/
-│ ├── arduino/ # Motor, weapon, and sensor control
-│ ├── esp32/ # Wireless communication & telemetry
-│ └── raspberry_pi/ # AI, computer vision, decision layer
-├── hardware/
-│ ├── chassis/ # 3D models and CAD files
-│ └── circuits/ # Schematics and PCB layouts
-├── media/
-│ ├── images/ # Photos, renders, assembly visuals
-│ └── videos/ # Combat and test footage
-├── docs/ # System design, wiring diagrams, research notes
-├── config/ # Pin maps, calibration data, network settings
-└── logs/ # Test and debug outputs
-
-
----
 ## ⚙️ Getting Started
 
 Clone the repository:
